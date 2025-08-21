@@ -1,2 +1,2 @@
-# Pr-ctica-Revisi-ndeC-digo
+# Practica-RevisiondeCodigo
 Ejercicios CH57 
